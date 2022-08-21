@@ -60,3 +60,15 @@ h2 {
     padding-left: 20px;
     padding-right: 20px;
 }
+
+#pro-developer {
+    border-left: 7px solid tomato;
+}
+
+#baby-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+}
